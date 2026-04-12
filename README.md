@@ -21,3 +21,5 @@ This project is aimed at creating a personal finance and budgeting platform tail
 
 ### Contributing
 Contributions are welcome! Please create a pull request or open an issue for discussion.
+
+MIT LICENSE
