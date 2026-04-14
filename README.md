@@ -15,7 +15,7 @@ This project is aimed at creating a personal finance and budgeting platform tail
 - npm
 
 ### Installation
-1. Clone the repository.
+1. Clone the repository
 2. Install dependencies using `npm install`.
 3. Start the server using `npm start`.
 
